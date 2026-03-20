@@ -1,18 +1,18 @@
-### whoami
-Felipe (Brandao)
-Back-end Developer | Open Source Contributor
+```bash
+brandao@github:~$ whoami
+Felipe (Brandao) | Back-end Developer & Open Source
 
-### stack
-Java, Spring Boot, SQL Server
+brandao@github:~$ ls stack/
+Java  Spring-Boot  SQL-Server
 
-### learning
+brandao@github:~$ cat learning.txt
 System Design, Distributed Systems
 
-### hobbies
-Jiu-Jitsu, Tolkien's Legendarium, Star Trek, Weightlifting
+brandao@github:~$ grep "hobbies" life.md
+Jiu-Jitsu, Tolkien, Star Trek, Weightlifting
 
-### languages
-PT, EN, ES
+brandao@github:~$ locale
+LANG=PT_EN_ES.UTF-8
 
-### status
-Helm, maximum warp, engage.
+brandao@github:~$ ./engage.sh
+"Helm, maximum warp, engage."
