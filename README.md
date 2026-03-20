@@ -1,4 +1,4 @@
-# Yo, I'm Felipe (but call me Brandão) 👋
+# Yo, I'm Felipe (but call me Brandao) 👋
 
 Building resilient back-end systems and contributing to the open-source ecosystem. 
 
