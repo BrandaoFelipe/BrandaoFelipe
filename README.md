@@ -1,18 +1,18 @@
-# Yo, I'm Felipe (but call me Brandao) 👋
+> whoami
+Felipe (Brandao)
+Back-end Developer | Open Source Contributor
 
-Building resilient back-end systems and contributing to the open-source ecosystem. 
+> stack
+Java, Spring Boot, SQL Server
 
-### 🛠️ Main Stack
-Java, Spring Boot, SQL Server & **Open Source Contributor**.
+> learning
+System Design, Distributed Systems
 
-### 📚 Learning
-System Design & Distributed Systems.
+> hobbies
+Jiu-Jitsu, Tolkien's Legendarium, Star Trek, Weightlifting
 
-### 🖖 Beyond Code
-Jiu-Jitsu, Tolkien's Legendarium, Star Trek fan & Weightlifting.
+> languages
+PT, EN, ES
 
-### 🌍 Languages
-English, Portuguese & Spanish.
-
----
-*Helm, maximum warp, engage!* 🖖
+> status
+Helm, maximum warp, engage.
