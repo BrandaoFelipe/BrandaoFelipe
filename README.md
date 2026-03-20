@@ -1,16 +1,18 @@
-## Hi there 👋
+# Yo, I'm Felipe (but call me Brandão) 👋
 
-<!--
-**BrandaoFelipe/BrandaoFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building resilient back-end systems and contributing to the open-source ecosystem. 
 
-Here are some ideas to get you started:
+### 🛠️ Main Stack
+Java, Spring Boot, SQL Server & **Open Source Contributor**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Learning
+System Design & Distributed Systems.
+
+### 🖖 Beyond Code
+Jiu-Jitsu, Tolkien's Legendarium, Star Trek fan & Weightlifting.
+
+### 🌍 Languages
+English, Portuguese & Spanish.
+
+---
+*Helm, maximum warp, engage!* 🖖
