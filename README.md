@@ -14,5 +14,8 @@ Jiu-Jitsu, Tolkien, Star Trek, Weightlifting
 brandao@github:~$ locale
 LANG=PT_EN_ES.UTF-8
 
+brandao@github:~$ echo $CONTACT
+brandao154@gmail.com
+
 brandao@github:~$ ./engage.sh
 "Helm, maximum warp, engage."
